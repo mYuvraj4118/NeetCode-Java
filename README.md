@@ -49,6 +49,14 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
 
 ---
 
+## 📈 Progress
+
+This repository is updated regularly as I solve new problems and learn new techniques.
+
+**Current Status:** 🟢 Actively Maintaining
+
+---
+
 ## 🌟 Why This Repository?
 
 This repository helps me:
@@ -67,7 +75,10 @@ This repository is primarily for my personal interview preparation.
 
 ---
 
-<p align="center">
-  <b>Happy Coding! 🚀</b><br><br>
-  <img src="https://img.shields.io/badge/Made%20with-Java-orange?style=for-the-badge&logo=openjdk">
-</p>
+<div align="center">
+
+### Happy Coding! 🚀
+
+*"Consistency beats intensity."*
+
+</div>
