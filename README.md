@@ -57,18 +57,6 @@ This repository is updated regularly as I solve new problems and learn new techn
 
 ---
 
-## 🌟 Why This Repository?
-
-This repository helps me:
-
-- 📌 Practice DSA consistently
-- 📌 Learn optimized approaches
-- 📌 Revise interview questions quickly
-- 📌 Keep all NeetCode solutions in one place
-- 📌 Track my coding progress over time
-
----
-
 ## 🤝 Contributions
 
 This repository is primarily for my personal interview preparation.
